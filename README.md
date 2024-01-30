@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-Challenge
 UPENN Module 4 Challenge
 
 # Background
